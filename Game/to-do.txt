@@ -1,0 +1,18 @@
+To-Do:
+Add Audio to FileLoader
+Create level editor
+Remove scroll boundries
+Add trees around level
+Change player sprite so feet are on bottom
+Make NPCs move randomly in a square (favor moving forward over turning around)
+Include sounds in file loader
+Turn Settings into a json
+Bump sound
+Other "rooms"
+Basic GUI
+Split character if behind a grass/flower tile (actually just repaint the sprite but painted!)
+Make it so you can walk behind some trees
+----------------------------------------------------------------------------------------------------------------------------------------------
+In Progress:
+----------------------------------------------------------------------------------------------------------------------------------------------
+Jar Bugs:
